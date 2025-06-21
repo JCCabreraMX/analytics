@@ -6,11 +6,11 @@ Siéntete libre de compartir y de usar el código que encuentres útil (no olvid
 
 Puedes visitar mis proyectos por tópico:
 
-*1. Limpieza y transformación de datos
-    1.1 Limpieza y Transformación de Datos para Retail
-    1.2 Datos de E-commerce (Limpieza + Features)
-    1.3 Encuestas de Satisfacción (Limpieza + Métricas)
-    1.4 Optimización de Rutas (Features Geoespaciales)
-    1.5 Datos Geoespaciales (Limpieza + Features) 
+## 1. Limpieza y transformación de datos.    
+1.1 Limpieza y Transformación de Datos para Retail    
+1.2 Datos de E-commerce (Limpieza + Features)    
+1.3 Encuestas de Satisfacción (Limpieza + Métricas)    
+1.4 Optimización de Rutas (Features Geoespaciales)    
+1.5 Datos Geoespaciales (Limpieza + Features)    
 
 
